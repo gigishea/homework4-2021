@@ -69,6 +69,7 @@ table{
   margin-right: auto;
   vertical-align: middle;
   border-collapse: separate;
+  padding: 10px;
 }
 tbody tr:last-child td:last-child{
   border-bottom-right-radius: 50px;
@@ -125,6 +126,7 @@ th{
   padding: 10px;
   color: #FFFFFF;
   text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
   background-color: #7e0825;
 
